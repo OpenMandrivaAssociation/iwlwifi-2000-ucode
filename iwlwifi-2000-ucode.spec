@@ -1,6 +1,6 @@
 %define name iwlwifi-2000-ucode
 %define version 18.168.6.1
-%define release 1
+%define release 2
 
 Summary: Intel Centrino Wireless-N 2200 microcode
 Name: %{name}
@@ -13,8 +13,8 @@ Url: http://intellinuxwireless.org/
 BuildArch: noarch
 
 %description
-The file iwlwifi-1000-*.ucode provided in this package is required to be
-present on your system in order for the Intel PRO/Wireless 1000BGN Network
+The file iwlwifi-2000-*.ucode provided in this package is required to be
+present on your system in order for the Intel Centrino Wireless-N 2200 Network
 Connection Adapter driver for Linux (iwlagn) to be able to operate on
 your system.
 
