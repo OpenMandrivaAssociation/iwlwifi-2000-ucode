@@ -1,6 +1,6 @@
 %define name iwlwifi-2000-ucode
 %define version 18.168.6.1
-%define release 2
+%define release 3
 
 Summary: Intel Centrino Wireless-N 2200 microcode
 Name: %{name}
